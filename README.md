@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-=> https://github.com/leixlabs
+All my personal projects under https://github.com/leixlabs 
